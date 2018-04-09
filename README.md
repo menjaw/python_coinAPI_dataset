@@ -7,7 +7,7 @@
 ### And we don't do fake emails. 
 
 
-#### If you expect the assignment has to be resolved by web-scrapping it is way over my level and that is something I can't do.
+#### If you expect the assignment has to be resolved by web-scrapping it is way over our level and that is something we can't do.
 
 
 
